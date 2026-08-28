@@ -1,8 +1,1 @@
-PACOTE TEC1 ATUALIZADO
-
-1. Envie index.html, tempo.html e admin.html diretamente para a raiz do repositório R-TEC1.V2.
-2. Substitua os arquivos existentes.
-3. Não exclua nem substitua a pasta dados.
-4. A página Tempo abre automaticamente filtrada no Cluster Florianópolis e atualiza ao alterar filtros ou datas.
-5. Todos os gráficos exibem percentuais em todos os pontos disponíveis, com fonte de 16 px.
-6. Depois do commit, pressione Ctrl+F5.
+Envie index.html, tempo.html e admin.html para a raiz. Não substitua a pasta dados. Pressione Ctrl+F5 após o commit.
