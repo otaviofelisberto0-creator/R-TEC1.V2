@@ -1,7 +1,15 @@
-PACOTE TEC1 CORRIGIDO
+PACOTE DE INTERFACE TEC1 - PRESERVAR A PASTA DADOS EXISTENTE
 
-A base 26-07-tec1.csv foi analisada e o conversor foi configurado com os nomes reais das colunas. O pacote já inclui o JSON real compactado de julho.
+Envie para a raiz do repositório:
+- index.html
+- tempo.html
+- admin.html
+- .nojekyll
+- pasta assets
 
-Publique index.html, admin.html, .nojekyll e dados/ na raiz do repositório. Configure GitHub Pages em main e /(root).
+NAO substitua nem exclua a pasta dados que já existe no GitHub. Mantenha:
+- dados/manifest.json
+- dados/26-07-tec1.json
+- dados/26-08-tec1.json
 
-Para novos meses: Admin > Converter CSV para JSON > Baixar JSON > carregar em dados/ > editar manifest.json.
+A página Tempo consulta um serviço meteorológico público sem chave para exibir sol, chuva, nublado, temperatura e probabilidade de chuva. Não copia o layout do Climatempo.
