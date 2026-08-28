@@ -1,0 +1,8 @@
+1. Publique todos os arquivos na raiz do GitHub Pages.
+2. Abra Admin no dashboard.
+3. Selecione o CSV, confira a competência e clique em Converter CSV para JSON.
+4. Clique em Baixar JSON mensal.
+5. Entre no GitHub, abra o upload da pasta dados e envie o JSON baixado.
+6. Edite dados/manifest.json para incluir a competência.
+
+O navegador converte e baixa o JSON. Por segurança, a página não grava diretamente no GitHub e não recebe a senha do GitHub.
