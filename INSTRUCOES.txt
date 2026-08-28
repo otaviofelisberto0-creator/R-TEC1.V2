@@ -1,1 +1,11 @@
-Envie index.html, tempo.html e admin.html para a raiz. Não substitua a pasta dados. Pressione Ctrl+F5 após o commit.
+PACOTE COMPLETO DA INTERFACE TEC1
+
+Envie diretamente para a raiz do repositório:
+- index.html
+- tempo.html
+- admin.html
+- .nojekyll
+
+Não exclua nem substitua a pasta dados já existente.
+Mantenha dados/manifest.json e todos os JSONs mensais.
+Depois do commit, pressione Ctrl+F5.
