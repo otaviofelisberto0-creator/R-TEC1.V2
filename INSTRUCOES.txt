@@ -1,8 +1,7 @@
-1. Publique todos os arquivos na raiz do GitHub Pages.
-2. Abra Admin no dashboard.
-3. Selecione o CSV, confira a competência e clique em Converter CSV para JSON.
-4. Clique em Baixar JSON mensal.
-5. Entre no GitHub, abra o upload da pasta dados e envie o JSON baixado.
-6. Edite dados/manifest.json para incluir a competência.
+PACOTE TEC1 CORRIGIDO
 
-O navegador converte e baixa o JSON. Por segurança, a página não grava diretamente no GitHub e não recebe a senha do GitHub.
+A base 26-07-tec1.csv foi analisada e o conversor foi configurado com os nomes reais das colunas. O pacote já inclui o JSON real compactado de julho.
+
+Publique index.html, admin.html, .nojekyll e dados/ na raiz do repositório. Configure GitHub Pages em main e /(root).
+
+Para novos meses: Admin > Converter CSV para JSON > Baixar JSON > carregar em dados/ > editar manifest.json.
