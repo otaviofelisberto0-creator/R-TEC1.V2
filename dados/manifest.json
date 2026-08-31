@@ -10,13 +10,13 @@
 {
 "competencia": "2026-07",
 "rotulo": "Julho/2026",
-"arquivo": "26-08-tec1dt agenda.json",
+"arquivo": "26-07-tec1.json",
 "ativo": true
 },
 {
 "competencia": "2026-08",
 "rotulo": "Agosto/2026",
-"arquivo": "26-08-tec1.json",
+"arquivo": "26-08-tec1dt agenda",
 "ativo": true
 }
 ]
