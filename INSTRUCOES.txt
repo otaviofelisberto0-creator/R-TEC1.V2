@@ -1,0 +1,10 @@
+PACOTE COMPLETO TEC1 ATUALIZADO
+
+As tabelas Mês x Mês por Cluster, SubCluster e EPO foram compactadas:
+- primeira coluna ajustada ao conteúdo;
+- largura máxima controlada;
+- colunas mensais uniformes entre 76 e 82 px;
+- melhor uso do espaço no desktop;
+- rolagem horizontal preservada no celular.
+
+Envie index.html, tempo.html, admin.html e .nojekyll para a raiz. Não substitua a pasta dados.
