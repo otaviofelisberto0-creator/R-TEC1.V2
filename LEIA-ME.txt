@@ -1,4 +1,4 @@
-PACOTE GITHUB TEC1 V4
+PACOTE GITHUB TEC1 V5 - RESPONSIVO
 
 SUBSTITUIR NA RAIZ:
 - index.html
@@ -6,22 +6,17 @@ SUBSTITUIR NA RAIZ:
 SUBSTITUIR EM DADOS, SOMENTE SE NECESSARIO:
 - dados/manifest.json
 
-MANTER NO REPOSITORIO:
+MANTER:
 - admin.html
 - tempo.html
 - INSTRUCOES.txt
 - .nojekyll
 - arquivos JSON mensais
 
-ATUALIZACAO V4:
-Os registros vinculados as EPOs DIGITEC, ENGETEC, BASIC, CF, GMF, AFLINE, TEMPO, VIA, SULTEC, R2T e PERONDI foram desconsiderados em todas as tabelas:
-- tabela mensal por Grupo
-- tabela mensal por Cluster
-- tabela mensal por SubCluster
-- tabela mensal por EPO
-- tabela diaria por Cluster
-- tabela diaria por EPO
-- tabela diaria por UN
-- tabela de desempenho por tecnico
-
-Os arquivos JSON nao foram alterados. Graficos, filtros e KPIs permanecem com o comportamento anterior.
+AJUSTES V5:
+- Layout adaptado para desktop, tablet e celular sem necessidade de zoom.
+- Cabecalho, filtros, KPIs e botoes reorganizados no celular.
+- Graficos ajustados a largura da tela.
+- Tabelas mantem fontes legiveis e permitem deslizar horizontalmente quando possuem muitas colunas.
+- Rodape deixa de cobrir conteudo no celular.
+- Preservadas todas as tabelas, exportacoes, filtros, exclusoes de EPO e a tabela mensal por Grupo.
