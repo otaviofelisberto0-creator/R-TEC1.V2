@@ -1,7 +1,27 @@
-PACOTE GITHUB TEC1 V3
+PACOTE GITHUB TEC1 V4
 
-Substitua index.html na raiz.
-Substitua dados/manifest.json apenas se ainda precisar registrar 07/26, 08/26 e 09/26.
-Mantenha admin.html, tempo.html, .nojekyll e os JSON mensais.
+SUBSTITUIR NA RAIZ:
+- index.html
 
-Esta versao preserva a tabela mensal por Grupo e remove 38 nomes somente da exibicao da tabela % TEC1 Mes x Mes por EPO. Os dados originais e as demais analises por EPO permanecem inalterados.
+SUBSTITUIR EM DADOS, SOMENTE SE NECESSARIO:
+- dados/manifest.json
+
+MANTER NO REPOSITORIO:
+- admin.html
+- tempo.html
+- INSTRUCOES.txt
+- .nojekyll
+- arquivos JSON mensais
+
+ATUALIZACAO V4:
+Os registros vinculados as EPOs DIGITEC, ENGETEC, BASIC, CF, GMF, AFLINE, TEMPO, VIA, SULTEC, R2T e PERONDI foram desconsiderados em todas as tabelas:
+- tabela mensal por Grupo
+- tabela mensal por Cluster
+- tabela mensal por SubCluster
+- tabela mensal por EPO
+- tabela diaria por Cluster
+- tabela diaria por EPO
+- tabela diaria por UN
+- tabela de desempenho por tecnico
+
+Os arquivos JSON nao foram alterados. Graficos, filtros e KPIs permanecem com o comportamento anterior.
