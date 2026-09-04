@@ -1,0 +1,25 @@
+PACOTE PARA GITHUB - DASHBOARD TEC1
+
+SUBSTITUIR:
+1. index.html na raiz do repositorio.
+2. dados/manifest.json na pasta dados.
+
+MANTER SEM ALTERACAO NO REPOSITORIO:
+- admin.html
+- tempo.html
+- arquivos JSON mensais existentes em dados
+
+ADICIONAR/MANTER NA RAIZ:
+- .nojekyll
+
+ATENCAO AO NOME DE AGOSTO:
+O repositorio exibido possui o arquivo "tec1-26-08 .json" com um espaco antes de .json.
+O manifest deste pacote aponta exatamente para esse nome.
+
+NOVA TABELA:
+% TEC1 Mes x Mes por Grupo
+Linhas: RPS, Grupo SC e Grupo PR.
+RPS = consolidacao ponderada de Grupo SC + Grupo PR.
+Calculo = soma(padrao) / soma(totalOS) * 100.
+
+Depois do commit, abra o GitHub Pages e use Ctrl+F5.
