@@ -1,0 +1,6 @@
+ATUALIZACAO DO DASHBOARD TEC1
+
+Envie index.html e .nojekyll para a raiz do repositorio.
+Mantenha admin.html e tempo.html existentes na raiz.
+Mantenha a pasta dados existente, com manifest.json e os JSONs mensais.
+O index usa caminhos relativos e esta pronto para GitHub Pages.
