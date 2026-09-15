@@ -1,0 +1,1 @@
+Substitua index.html, admin.html e tempo.html na raiz do repositório. Depois gere novamente o JSON mensal em admin.html, publique o JSON em dados/ e mantenha o manifest.json apontando para esse arquivo. Não substitua seu manifest.json atual por um arquivo vazio.
