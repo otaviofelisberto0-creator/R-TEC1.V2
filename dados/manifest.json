@@ -1,5 +1,5 @@
 {
-"competenciaAtual": "2026-09",
+"competenciaAtual": "2026-10",
 "arquivos": [
 {
 "competencia": "2026-07",
@@ -18,6 +18,11 @@
 "rotulo": "Setembro/2026",
 "arquivo": "tec1-26-09.json",
 "ativo": true
-}
-]
+},
+{ "competencia": "2026-10", 
+  "rotulo": "Outubro/2026",
+  "arquivo": "tec1-26-10.json",
+  "ativo": true 
+} 
+] 
 }
